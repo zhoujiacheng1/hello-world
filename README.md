@@ -1,3 +1,3 @@
 # hello-world
-GitHub一个
-你好
+GitHub的一个
+喜欢python
